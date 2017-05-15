@@ -8,7 +8,7 @@
    <dependencies>
             <dependency>
                 <groupId>org.seleniumhq.selenium</groupId>
-                <artifactId>selenium-java</artifactId>
+                <artifactId>selenium-java</artifactId>adad
                 <version>2.53.0</version>
             </dependency>
             <dependency>
